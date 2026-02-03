@@ -1,2 +1,2 @@
 # Projeto de Calculadora
-Uma calculadora simples em python
+Uma calculadora simples em Python
